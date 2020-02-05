@@ -1,0 +1,6 @@
+wget
+networkx
+pickle-mixin
+python-igraph
+chart-studio
+plotly
